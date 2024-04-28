@@ -1,7 +1,3 @@
-Claro! Aqui está o README.md com as seções em inglês adicionadas:
-
----
-
 # REST API with Laravel for Post Creation
 
 Esta é uma REST API desenvolvida em Laravel para a criação de posts, com usuários autenticados e a capacidade de adicionar tags aos posts para facilitar a busca por tags específicas.
