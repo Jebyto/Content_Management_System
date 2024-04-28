@@ -20,7 +20,7 @@ Siga estes passos para configurar e executar o projeto localmente:
 1. Clone este repositório (Clone this repository):
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/Jebyto/Content_Management_System.git
     ```
 
 2. Instale as dependências do projeto usando o Composer (Install project dependencies):
